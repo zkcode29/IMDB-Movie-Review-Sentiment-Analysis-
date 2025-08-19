@@ -42,5 +42,5 @@ To run this project on your local machine, follow these steps:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/[Your-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
+git clone(https://github.com/zkcode29/IMDB-Movie-Review-Sentiment-Analysis-/tree/main).git
+cd(https://github.com/zkcode29/IMDB-Movie-Review-Sentiment-Analysis-/tree/main)
